@@ -7,10 +7,10 @@ The motivation behind this project was to utilize MERN.
 -[Installation](#installation)
 -[Usage](#usage)
 -[Credits](#credits)
--License](#license)
+-[License](#license)
 
 ## Installation
-You will be using concurrently pakcage
+You will be using concurrently package
 
 ## Usage
 To be able to use the application you will be using the "npm i", "npm run build", & "npm run develop".
